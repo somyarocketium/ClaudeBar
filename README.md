@@ -23,7 +23,7 @@ A lightweight macOS menu bar app that keeps an eye on your [Claude Code](https:/
 ### Build from source
 
 ```bash
-git clone https://github.com/<your-username>/ClaudeBar.git
+git clone https://github.com/somyarocketium/ClaudeBar.git
 cd ClaudeBar
 ./build.sh
 ```
